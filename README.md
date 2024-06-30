@@ -1,4 +1,4 @@
-git clone https://github.com/tu_usuario/mobiletech-solutions.git
+git clone https://github.com/Alexa98266/mobiletechsolutions.github.io
 cd mobiletech-solutions
 echo "Alojando código HTML en GitHub Pages" > README.md
 git add .
